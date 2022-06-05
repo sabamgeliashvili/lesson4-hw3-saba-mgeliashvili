@@ -1,0 +1,46 @@
+/*section 1*/
+.text-block1{display: inline-block; width: 236px; vertical-align: top; margin-top: 37px; margin: 37px 0 24px 16px;}
+.text-block2{display: inline-block; width: 236px; vertical-align: top; height: 107px; margin: 37px 0 24px 16px; }
+.wholebox1{width: 1088px;
+margin: 0 auto; margin-bottom: 122px; }
+.left-block{width: 536px; 
+background-color: #F8F8F8; display: inline-block; margin-top: 50px;}
+.right-block{width: 536px; background-color: #BE2B2B; display: inline-block; margin-left: 16px; height: 190px;}
+.title1{font-family: 'Poppins', sans-serif; color: #5863F8; font-size: 14px;  font-weight: bold;
+    font-style: normal;
+    font-display: swap;}
+.paragraph1{ font-family: 'Poppins';
+font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    font-size: 42px;}
+.title2{color: #5863F8; font-size: 14px; font-family: 'Poppins';font-weight: bold;
+    font-style: normal;
+    font-display: swap;}
+.title3{font-size: 18px;    font-family: 'Poppins';font-weight: 600;
+    font-style: normal;
+    font-display: swap;}
+	.paragraph2{color: #B1B1B1; font-size: 14px; }
+
+
+
+
+
+/* section 2*/
+.wholebox1{width: 1088px;
+margin: 0 auto; /*height: 340px;*/ margin-bottom: 122px;}
+.wraper1{width: 352px; background-color: #F8F8F8; display: inline-block;}
+.wraper2{display: inline-block; width: 352px; background-color:#F8F8F8; margin-left: 16px; margin-top: 65px;}
+.wraper3{display: inline-block; width: 352px; background-color: #F8F8F8;}
+.wraper3-text{text-align: center; /*width: 260px;*/}
+.wraper2-text{text-align: center; /*width: 260px;*/}
+.wraper1-text{text-align: center;/*width: 260px;*/}
+.title2{margin-bottom: 5px;}
+.title3{margin-bottom: 10px;}
+
+
+/* **** */
+
+.slogan1{font-size: 40px; margin-top: 70px;font-family: 'Blaka', cursive;}
+.slogan2{font-size: 40px;font-family: "BPG Mikheil Stefane", sans-serif; margin-top: 15px; }
+.active{margin-top: 20px; font-size: 20px;  font-family: 'BPG Mikheil Stefane';}
